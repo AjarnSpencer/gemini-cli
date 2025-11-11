@@ -139,26 +139,24 @@ export class ChatCompressionService {
       };
     }
 
-    const summaryResponse = await config.getContentGenerator().generateContent(
-      {
-        model,
-        contents: [
-          ...historyToCompress,
-          {
-            role: 'user',
-            parts: [
-              {
-                text: 'First, reason in your scratchpad. Then, generate the <state_snapshot>.',
-              },
-            ],
-          },
-        ],
-        config: {
-          systemInstruction: { text: getCompressionPrompt() },
+    const summaryResponse = await config.getBaseLlmClient().generateContent({
+      modelConfigKey: { model },
+      contents: [
+        ...historyToCompress,
+        {
+          role: 'user',
+          parts: [
+            {
+              text: 'First, reason in your scratchpad. Then, generate the <state_snapshot>.',
+            },
+          ],
         },
-      },
+      ],
+      systemInstruction: { text: getCompressionPrompt() },
       promptId,
-    );
+      // TODO(joshualitt): wire up a sensible abort signal,
+      abortSignal: new AbortController().signal,
+    });
     const summary = getResponseText(summaryResponse) ?? '';
 
     const extraHistory: Content[] = [
