@@ -85,6 +85,7 @@ Integrate Gemini CLI directly into your GitHub workflows with Gemini CLI GitHub 
 - **Pull Request Reviews*: Automated code review with contextual feedback and suggestions
 **Issue Triage**: Perform automated labeling and prioritization of GitHub issues based on content analysis
 On-demand Assistance: Mention @gemini-cli in issues and pull requests for help with debugging, explanations, or task delegation
+
 ```
 
 
