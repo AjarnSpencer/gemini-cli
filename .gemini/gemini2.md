@@ -1,3 +1,4 @@
+```
 # Global Instructions
 - **Read**:
 Read and obey the instructions in the file at ./gemini-cli/commands/format/check.toml
