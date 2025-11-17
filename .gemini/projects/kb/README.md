@@ -1,0 +1,1 @@
+This folder contains files with knowlede base data for the AI to peruse and learn from as inherently available custom knowledge bases. Subfolders should be treated as individual topics and knowledge bases of their own accord separate from each other but also combinable
