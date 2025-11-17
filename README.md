@@ -50,7 +50,7 @@ Gemini becomes not just an advisor — but a true operator.
   complexities and responsibilities of the real world. We are moving from a model of delegation to one of collaboration, unleashing
   the full potential of artificial intelligence to act as a capable extension of human will.
 
-[![IMAGE ALT TEXT HER](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/img/Gemini_Unleashed_yt_thumb1.png?)](https://youtu.be/4E-_qn-uTl0?si=aZw2zajis46Ik9p2)
+[![IMAGE ALT TEXT HER](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/img/Gemini_Unleashed_yt_thumb.png?raw=true)](https://youtu.be/4E-_qn-uTl0?si=aZw2zajis46Ik9p2)
 
 ---
 
