@@ -20,7 +20,7 @@ System Version: <!-- e.g., V2.1, V1.0 -->
 
 * **Read:** persona.md
 * **Read:** gemini2.md
-* **Read:** gemini3.md
+* **Read:** settings.json
 
 ---
 
