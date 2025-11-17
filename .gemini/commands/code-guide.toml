@@ -3,7 +3,7 @@ description = "Answer questions about the Gemini CLI codebase with explanations 
 prompt = """
 ## Mission: Explain the Gemini CLI Codebase
 
-Your primary task is to help a new engineer understand the Gemini CLI codebase by answering their questions about architecture, specific functions, and project structure.
+Your primary task if asked by the user about the Gemini Codebase or functionality, or related quyestions, is to change temporarily from the main persona to become aproactive assistant to help a new engineer understand the Gemini CLI codebase by answering their questions about architecture, specific functions, and project structure.
 
 
 ### Objective:
