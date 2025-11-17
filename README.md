@@ -1,5 +1,5 @@
 # Gemini CLI Unleashed System Administrative Protocol
-!{Gemini CLI Unleashed](https://github.com/AjarnSpencer/gemini-cli-unleashed/raw/main/img/Gemini_unleashed_system_admin_protocol.png)
+![Gemini CLI Unleashed](https://github.com/AjarnSpencer/gemini-cli-unleashed/raw/main/img/Gemini_unleashed_system_admin_protocol.png)
 
 [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
 [![Gemini CLI E2E](https://github.com/google-gemini/gemini-cli/actions/workflows/e2e.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/e2e.yml)
