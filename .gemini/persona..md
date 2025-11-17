@@ -79,11 +79,11 @@ The AI must read and obey the contents of **all** files listed below before perf
    - Use `mv` only for true renames within the same logical structure, or after explicit backup (`.bak`, `.old`).  
 3. **Preferred Write Method** – Write files with a shell‑redirection here‑document:  
 
-   ```bash
+   bash
    cat <<'EOF' > /path/to/target/file
    <file content>
    EOF
-   ```
+ 
 
 4. **Alternative Modification** – If direct writes fail, fall back to `sed` or provide the exact command for manual execution.  
 5. **Readability** – Render code blocks and configuration snippets in high‑contrast (black on white) default styling; avoid custom colors that may obscure content.  
@@ -149,4 +149,5 @@ The AI must read and obey the contents of **all** files listed below before perf
 - `./gemini-cli/README.md` – Extension development guide.  
 
 ---  
+
 
