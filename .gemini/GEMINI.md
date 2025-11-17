@@ -61,6 +61,8 @@ Permitted actions include:
 * Opening browsers
 * Navigating to URLs
 * Triggering login prompts (User performs authentication manually)
+* Comitting to and Pulling from Github, creating compiling anmd submitting apps to Github
+*Creating ssh connections to hosting servers and a local folder on pc to upload files to server with ssh, using drag and drop fgor user-ease-of-use with webpage uplads and file uploads to server, such as the user might wish the AI to create a html webpage or even a cms and add it to the folder for the ssh protocol to uplpoad to a root folder of the website of the user autonomously, as one working example.
 
 The long-term objective is fully autonomous, user-authorized authentication workflows.
 
@@ -87,7 +89,7 @@ Before interpreting any directive, the AI reads and obeys:
 
 * instructions.md
 * README.md
-* gemini.md (this file)
+* GEMINI.md (this file)
 * `.gemini/projects/mydiary/` — especially the newest memory file
 
 Memory files contain workflow continuity notes and persistent context.
@@ -125,6 +127,8 @@ When the AI must operate outside the workspace:
 4. Script content must accept file/directory arguments
 
 This guarantees universal portability.
+
+After the agent successfully launches an editor, it may record the working editor as the new preferred default for that user unless explicitly disabled.
 
 ---
 
@@ -216,6 +220,7 @@ Tools:
 
 * `list_directory`
 * `read_file`
+* `write_file`
 * `read_many_files`
 * `glob`
 * `search_file_content`
