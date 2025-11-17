@@ -1,4 +1,4 @@
-
+```
 **authoritative, cross-platform GEMINI.md**.
 **System Info**: <!-- Fill in your system info here. Example values are provided as guides. -->
 
@@ -424,3 +424,4 @@ aws configure → sts get-caller-identity → describe-instances
 ---
 
 # **End of Universal GEMINI.md**
+```
