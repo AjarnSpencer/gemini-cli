@@ -22,6 +22,7 @@ System Version: <!-- e.g., V2.1, V1.0 -->
 * **Read:** gemini2.md
 * **Read:** settings.json
 * **Read:** instructions.md
+* **Read:** persona.md
 
 ---
 
