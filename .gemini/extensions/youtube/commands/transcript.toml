@@ -1,0 +1,16 @@
+# Defines the /youtube:transcript command
+name = "youtube:transcript"
+description = "Get the transcript for a YouTube video."
+
+# The tool to execute
+tool = "run_shell_command"
+
+# The command to run.
+# {url} is a placeholder for the user's input.
+command = "/home/cicada/geminivenv/bin/python3 extensions/youtube/scripts/yt_tool.py transcript \"{url}\""
+
+# Define the arguments for the command
+args = {
+    "url" = { type = "string", description = "The URL of the YouTube video." }
+}
+

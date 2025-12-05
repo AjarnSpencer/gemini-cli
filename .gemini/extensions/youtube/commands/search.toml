@@ -1,0 +1,17 @@
+# Defines the /youtube:search command
+name = "youtube:search"
+description = "Search YouTube for videos and return a list of results."
+
+# The tool to execute
+tool = "run_shell_command"
+
+# The command to run.
+# {query} is a placeholder for the user's input.
+# Note: The path to the script is now relative to the root of the repository.
+command = "/home/cicada/geminivenv/bin/python3 extensions/youtube/scripts/yt_tool.py search \"{query}\""
+
+# Define the arguments for the command
+args = {
+    "query" = { type = "string", description = "The search query for YouTube." }
+}
+
