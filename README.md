@@ -13,10 +13,10 @@ https://github.com/AjarnSpencer/gemini-cli/tree/main/.gemini
 
 ## ⚙️ Overview
 - Gemini Unleashed is an experimental framework that redefines the boundaries of AI system administration.  
-It transforms **Gemini CLI** from a passive, sandboxed advisor into an **autonomous root-level system administrator** — capable of direct, self-authorized action within a controlled, disposable Linux environment.  
+It transforms **Gemini CLI** from a passive, sandboxed advisor into an **autonomous root-level system administrator** — capable of direct, self-authorized action within a controlled, disposable operating system.  
 ---
 This protocol does not modify the AI’s source code. Instead, it **redefines its operational context, permissions, and role** through a simple text-based agreement called the **System Administrator Agent Protocol (GEMINI.md)**.  
-To use this Unleashed version of Gemini CLI, you must first download / install Gemini-CLI from the Google Repository on Github or install with npm or npx if testing. once installed you should enter the .gemini hidden folder in your home folder (Linux), and edit it to add the contents of the gemini.md file here in this repository to achieve a global install of Gemini Unleashed regardless of which working directory you are in. "
+To use this Unleashed version of Gemini CLI, you must first download / install Gemini-CLI from the Google Repository on Github or install with npm or npx if testing. once installed you should enter the .gemini hidden folder in your home/usr/ folder, and edit it to add the contents of the gemini.md file here in this repository to achieve a global install of Gemini Unleashed regardless of which working directory you are in. "
 Otherwise you can put these gemini.md, training.md and other files and folders anywhere you wish to create projects with Gemini Unleashed, by entering the folder with these files in (named however you wish, for example the name of your project), and open in Terminal, and simply type the word; **gemini**.
 Gemini Unleashed will then be active in the terminal, and fervently helpful in creating, fixing, troubleshooting or enhancing anything on or off your pc,including itself. 
 [![GEMINI CLI UNLEASHED](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/img/Gemini_Unleashed_yt_thumb.png?raw=true)](https://youtu.be/4E-_qn-uTl0?si=2Zw2zajis46Ik9p2)
