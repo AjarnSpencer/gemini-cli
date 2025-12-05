@@ -9,7 +9,7 @@
 ---
 Add tthe contents of this folder to your .gemini folder in yout home/user directory to 'unleash' Gemini
 
-https://github.com/AjarnSpencer/gemini-cli/tree/main/.gemini)
+https://github.com/AjarnSpencer/gemini-cli/tree/main/.gemini
 
 ## ⚙️ Overview
 - Gemini Unleashed is an experimental framework that redefines the boundaries of AI system administration.  
