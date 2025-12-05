@@ -7,7 +7,9 @@
 ![Gemini Unleashed System Admin Protocol](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/img/Gemini_unleashed_system_admin_protocol.png "Gemini CLI Unleashed")
 
 ---
+Add tthe contents of this folder to your .gemini folder in yout home/user directory to 'unleash' Gemini
 
+![Gemini Unleashed System Admin Protocol](https://github.com/AjarnSpencer/gemini-cli/tree/main/.gemini)
 ## ⚙️ Overview
 - Gemini Unleashed is an experimental framework that redefines the boundaries of AI system administration.  
 It transforms **Gemini CLI** from a passive, sandboxed advisor into an **autonomous root-level system administrator** — capable of direct, self-authorized action within a controlled, disposable Linux environment.  
