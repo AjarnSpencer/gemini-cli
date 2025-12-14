@@ -7,7 +7,7 @@
 ![Gemini Unleashed System Admin Protocol](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/img/Gemini_unleashed_system_admin_protocol.png "Gemini CLI Unleashed")
 
 ---
-Add the contents of this folder to your home/user/.gemini folder in yout home/user directory to 'unleash' Gemini
+Add the contents of this folder to your home/user/.gemini folder in your './home/usr/' directory to 'unleash' Gemini
 
 https://github.com/AjarnSpencer/gemini-cli/tree/main/.gemini
 
