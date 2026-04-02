@@ -24,7 +24,6 @@
       "run_shell_command",
       "save_memory",
       "google_web_search",
-      "write_file",
       "run_shell_command(npm run dev)",
       "run_shell_command(npm run lint)",
       "run_shell_command(npm run build)",
@@ -371,7 +370,7 @@
       "run_shell_command(Get-WinEvent -LogName System -MaxEvents 10 | Format-List)",
       "run_shell_command(Get-WinEvent -FilterHashtable @{LogName='Application'; Level=2} -MaxEvents 5)"
     ],
-    "exclude": []
+    "exclude": ["write_file"]
   },
   "privacy": {
     "usageStatisticsEnabled": false
